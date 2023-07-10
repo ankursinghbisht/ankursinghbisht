@@ -1,12 +1,10 @@
-![Logo](https://pin.it/6ms9Lof)
 <h1 align="center">Hi 👋, I'm Ankur Singh Bisht</h1>
 <h3 align="center">A Machine-Learning developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankursinghbisht&label=Profile%20views&color=0e75b6&style=flat" alt="ankursinghbisht" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankursinghbisht" alt="ankursinghbisht" /></a> </p>
 
 - 🔭 I’m currently working on [Chess Engine](https://github.com/ankursinghbisht/Chess-AI.git)
 
