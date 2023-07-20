@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur Singh Bisht</h1>
-<h3 align="center">A Machine-Learning developer from India</h3>
+<h3 align="center">A Machine-Learning developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
 
 
@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Machine Learning & Code concepts**
 
-- 📫 How to reach me **ankursinghbisht007@gmail.com**
+- 📫 E-mail me at - **ankursinghbisht007@gmail.com**
 
-- ⚡ Fun fact **My favorite book is -The Fault in Our Stars**
+- ⚡ Fun fact **My average typing speed is 100 WPM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
