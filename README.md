@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankursinghbisht?tab=repositories](https://github.com/ankursinghbisht?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/ankursinghbisht?tab=repositories)
 
 - 💬 Ask me about **Machine Learning & Code concepts**
 
