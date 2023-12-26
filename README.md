@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankursinghbisht&label=Profile%20views&color=0e75b6&style=flat" alt="ankursinghbisht" /> </p>
 
 
-- 🔭 I’m currently working on [Chess Engine](https://github.com/ankursinghbisht/Chess-AI.git)
+- 🔭 I’m currently working on [Object Detection Model](https://github.com/ankursinghbisht/Object_Detection)
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/ankursinghbisht?tab=repositories)
 
