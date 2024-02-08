@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankursinghbisht&label=Profile%20views&color=0e75b6&style=flat" alt="ankursinghbisht" /> </p>
 
 
-- 🔭 I’m currently working on [Sign Language Detector](https://github.com/ankursinghbisht/Real-Time-Sign_Language_Detector)
+- 🔭 I’m currently working on making [My Digital Clone](https://github.com/ankursinghbisht/Know-me-Bot)
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/ankursinghbisht?tab=repositories)
 
