@@ -5,14 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankursinghbisht&label=Profile%20views&color=0e75b6&style=flat" alt="ankursinghbisht" /> </p>
 
+<!--
+- 🔭 I’m currently working on making [My Digital Clone](https://github.com/ankursinghbisht/Know-me-Bot)-->
 
-- 🔭 I’m currently working on making [My Digital Clone](https://github.com/ankursinghbisht/Know-me-Bot)
-
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/ankursinghbisht?tab=repositories)
 
-- 💬 Ask me about **Machine Learning & Code concepts**
+- 💬 Ask me about **AI and Machine Learning**
 
 - 📫 E-mail me at - **ankursinghbisht007@gmail.com**
 
